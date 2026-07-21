@@ -767,3 +767,7 @@ See `make area` in [scripts/vivado/](scripts/vivado/).
 - Captured simulation screenshots and execution videos for verification.
 - 
 
+<img width="1072" height="671" alt="image" src="https://github.com/user-attachments/assets/658fc281-4a7f-4922-a37a-93a1097d0ca8" />
+## Demo Video of the result GTK Waveform
+https://1drv.ms/v/c/09c1f0ca456b1c9d/IQA2iuwvmo1PRL-fXFY3WjF0AWpUVXbisrOMzra4lopy0nk?e=4nEoQ1
+
