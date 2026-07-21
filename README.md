@@ -759,3 +759,11 @@ See `make area` in [scripts/vivado/](scripts/vivado/).
 | PicoRV32 (regular) |        917 |             48 |             583 |
 | PicoRV32 (large)   |       2019 |             88 |            1085 |
 
+## Results
+
+- Successfully compiled the PicoRV32 RISC-V CPU simulation.
+- Executed the simulation using the provided testbench.
+- Verified correct CPU behavior through GTKWave waveform analysis.
+- Captured simulation screenshots and execution videos for verification.
+- 
+
