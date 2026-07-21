@@ -1,4 +1,24 @@
-[![.github/workflows/ci.yml](https://github.com/YosysHQ/picorv32/actions/workflows/ci.yml/badge.svg)](https://github.com/YosysHQ/picorv32/actions/workflows/ci.yml)
+
+# PicoRV32 RISC-V CPU Simulation
+
+This repository documents my learning and simulation of the PicoRV32 RISC-V processor.
+
+## Tools Used
+- Verilog HDL
+- Icarus Verilog
+- GTKWave
+- Yosys
+- Ubuntu
+- Git & GitHub
+
+## What I Learned
+- RISC-V RV32I Architecture
+- PicoRV32 Core
+- RTL Simulation
+- Testbench Development
+- Waveform Analysis
+-
+- [![.github/workflows/ci.yml](https://github.com/YosysHQ/picorv32/actions/workflows/ci.yml/badge.svg)](https://github.com/YosysHQ/picorv32/actions/workflows/ci.yml)
 
 PicoRV32 - A Size-Optimized RISC-V CPU
 ======================================
@@ -738,3 +758,4 @@ See `make area` in [scripts/vivado/](scripts/vivado/).
 | PicoRV32 (small)   |        761 |             48 |             442 |
 | PicoRV32 (regular) |        917 |             48 |             583 |
 | PicoRV32 (large)   |       2019 |             88 |            1085 |
+
